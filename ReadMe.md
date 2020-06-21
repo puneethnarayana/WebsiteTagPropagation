@@ -15,3 +15,8 @@ Run the WTP.java file from the com/iiitb/wtp folder
 ###
 Please find more information at:
 http://puneethnarayana.me/WebsiteTagPropagation/
+
+TODO:
+1. Convert code to Python
+2. Re-run the experiments
+3. Publish Blog
